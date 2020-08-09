@@ -1,9 +1,10 @@
 # production
 .prettierrc
-.postcss.config.js
+.postcss
 .babelrc
 .browserslistrc
 .editorconfig
+.README
 
 # Logs
 logs
